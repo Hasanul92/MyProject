@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="utilities.ExtentReportUtility"/>
+    </listeners>
+
+    <test name="GroupTest">
+        <groups>
+            <run>
+                <include name="Sanity"/>
+                <!-- <exclude name="Master"/> -->
+                <!-- <include name="Regression"/> -->
+                <!-- <include name="DataDriven"/> -->
+            </run>
+        </groups>
+
+        <parameter name="os" value="windows"/>
+        <parameter name="browser" value="chrome"/>
+
+        <classes>
+            <class name="testCases.Tc_001_Luma_AccountRegistrationPage"/>
+            <class name="testCases.Tc_002_Lumia_LoginPage"/>
+            <!-- <class name="testCases.Tc_004_Lumia_LoginDDT_DataProvider"/> -->
+        </classes>
+    </test>
+</suite>

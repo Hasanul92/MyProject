@@ -1,0 +1,46 @@
+16:54:00.653 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage_MultpBrowser - ****Starting Tc_002_AccountRegistrationPage****
+16:54:06.150 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage_MultpBrowser - Clicked on my account
+16:54:06.151 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage_MultpBrowser - Providing user details
+16:54:09.969 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage_MultpBrowser - Clicked on Register
+16:54:13.169 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage_MultpBrowser - Validating expected message
+16:54:15.830 [TestNG-tests-3] INFO  testCases.Tc_001_AccountRegistrationPage_MultpBrowser - Clicked on Register
+16:54:16.353 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage_MultpBrowser - Clicked on Register
+16:54:18.842 [TestNG-tests-3] INFO  testCases.Tc_001_AccountRegistrationPage_MultpBrowser - Validating expected message
+16:54:19.368 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage_MultpBrowser - Validating expected message
+16:54:26.468 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistrationPage_MultpBrowser - ****Finish Tc_002_AccountRegistrationPage****
+16:54:26.497 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistrationPage_MultpBrowser - ****Finish Tc_002_AccountRegistrationPage****
+16:54:27.722 [TestNG-tests-3] INFO  testCases.Tc_001_AccountRegistrationPage_MultpBrowser - ****Finish Tc_002_AccountRegistrationPage****
+00:18:56.214 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Starting Tc_002_AccountRegistrationPage****
+00:19:06.766 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Clicked on my account
+00:19:06.769 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Providing user details
+00:19:17.802 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Finish Tc_002_AccountRegistrationPage****
+00:20:59.206 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Starting Tc_002_AccountRegistrationPage****
+00:20:59.277 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Clicked on my account
+00:20:59.280 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Providing user details
+00:21:20.348 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Starting Tc_002_AccountRegistrationPage****
+00:21:20.418 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Clicked on my account
+00:21:20.421 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Providing user details
+00:23:37.056 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Starting Tc_002_AccountRegistrationPage****
+00:23:37.157 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Clicked on my account
+00:23:37.162 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Providing user details
+00:25:03.810 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Starting Tc_002_AccountRegistrationPage****
+00:25:13.962 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Clicked on my account
+00:25:13.965 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Providing user details
+00:25:24.707 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Finish Tc_002_AccountRegistrationPage****
+00:27:28.704 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Starting Tc_002_AccountRegistrationPage****
+00:27:28.790 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Clicked on my account
+00:27:28.793 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Providing user details
+00:28:40.673 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Starting Tc_002_AccountRegistrationPage****
+00:28:50.846 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Clicked on my account
+00:28:50.865 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Providing user details
+00:29:01.768 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Finish Tc_002_AccountRegistrationPage****
+00:32:51.970 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Starting Tc_002_AccountRegistrationPage****
+00:33:02.075 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Clicked on my account
+00:33:02.078 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Providing user details
+00:33:13.931 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Finish Tc_002_AccountRegistrationPage****
+00:35:54.203 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Starting Tc_002_AccountRegistrationPage****
+00:36:04.555 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Clicked on my account
+00:36:04.568 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Providing user details
+00:36:15.879 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Finish Tc_002_AccountRegistrationPage****
+00:36:59.437 [main] INFO  testCases.Tc_001_AccountRegistrationPage - ****Starting Tc_002_AccountRegistrationPage****
+00:37:09.557 [main] INFO  testCases.Tc_001_AccountRegistrationPage - Clicked on my account

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Master Suite">
+    <listeners>
+        <listener class-name="utilities.ExtentReportUtility"> </listener>
+    </listeners>
+    <test name="Test">
+        <parameter name="os" value="Windows"> </parameter>
+        <parameter name="browser" value="chrome"> </parameter>
+        <classes>
+            <class name="testCases.Tc_001_Luma_AccountRegistrationPage"> </class>
+            <class name="testCases.Tc_002_Lumia_LoginPage"> </class>
+<!--         <class name="testCases.Tc_004_Lumia_LoginDDT_DataProvider"> </class>-->
+        </classes>
+    </test>
+</suite>
+
+
+
